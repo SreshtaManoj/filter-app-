@@ -1,0 +1,9 @@
+h3{
+    color: orange;
+}
+body{
+    background-size: cover;
+}
+.btn-succes:hover{
+    background-color: red;
+}
